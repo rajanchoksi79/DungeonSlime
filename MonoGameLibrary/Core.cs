@@ -8,7 +8,6 @@ namespace DungeonSlime.MonoGameLibrary;
 public class Core : Game
 {
     internal static Core s_instance;
-
     public static Core Instance => s_instance;
     public static GraphicsDeviceManager Graphics { get; private set; }
     public static new GraphicsDevice GraphicsDevice { get; private set; }
