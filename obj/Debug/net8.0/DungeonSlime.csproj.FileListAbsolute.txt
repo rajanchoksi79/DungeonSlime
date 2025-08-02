@@ -1,0 +1,6 @@
+D:\Games\Learnings\DungeonSlime\obj\Debug\net8.0\DungeonSlime.csproj.AssemblyReference.cache
+D:\Games\Learnings\DungeonSlime\obj\Debug\net8.0\DungeonSlime.GeneratedMSBuildEditorConfig.editorconfig
+D:\Games\Learnings\DungeonSlime\obj\Debug\net8.0\DungeonSlime.AssemblyInfoInputs.cache
+D:\Games\Learnings\DungeonSlime\obj\Debug\net8.0\DungeonSlime.AssemblyInfo.cs
+D:\Games\Learnings\DungeonSlime\obj\Debug\net8.0\DungeonSlime.csproj.CoreCompileInputs.cache
+D:\Games\Learnings\DungeonSlime\obj\Debug\net8.0\DungeonSlime.sourcelink.json

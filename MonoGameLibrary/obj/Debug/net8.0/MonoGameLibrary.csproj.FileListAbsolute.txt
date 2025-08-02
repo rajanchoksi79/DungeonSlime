@@ -1,0 +1,13 @@
+D:\Games\Learnings\DungeonSlime\MonoGameLibrary\bin\Debug\net8.0\MonoGameLibrary.deps.json
+D:\Games\Learnings\DungeonSlime\MonoGameLibrary\bin\Debug\net8.0\MonoGameLibrary.dll
+D:\Games\Learnings\DungeonSlime\MonoGameLibrary\bin\Debug\net8.0\MonoGameLibrary.pdb
+D:\Games\Learnings\DungeonSlime\MonoGameLibrary\obj\Debug\net8.0\MonoGameLibrary.csproj.AssemblyReference.cache
+D:\Games\Learnings\DungeonSlime\MonoGameLibrary\obj\Debug\net8.0\MonoGameLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Games\Learnings\DungeonSlime\MonoGameLibrary\obj\Debug\net8.0\MonoGameLibrary.AssemblyInfoInputs.cache
+D:\Games\Learnings\DungeonSlime\MonoGameLibrary\obj\Debug\net8.0\MonoGameLibrary.AssemblyInfo.cs
+D:\Games\Learnings\DungeonSlime\MonoGameLibrary\obj\Debug\net8.0\MonoGameLibrary.csproj.CoreCompileInputs.cache
+D:\Games\Learnings\DungeonSlime\MonoGameLibrary\obj\Debug\net8.0\MonoGameLibrary.sourcelink.json
+D:\Games\Learnings\DungeonSlime\MonoGameLibrary\obj\Debug\net8.0\MonoGameLibrary.dll
+D:\Games\Learnings\DungeonSlime\MonoGameLibrary\obj\Debug\net8.0\refint\MonoGameLibrary.dll
+D:\Games\Learnings\DungeonSlime\MonoGameLibrary\obj\Debug\net8.0\MonoGameLibrary.pdb
+D:\Games\Learnings\DungeonSlime\MonoGameLibrary\obj\Debug\net8.0\ref\MonoGameLibrary.dll
