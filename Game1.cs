@@ -20,7 +20,7 @@ public class Game1 : Core
     protected override void LoadContent()
     {
         // TODO: use this.Content to load your game content here
-        _logo = Content.Load<Texture2D>("Content/images/logo");
+        _logo = Content.Load<Texture2D>("images/logo");
 
         // base.LoadContent();
     }
@@ -37,13 +37,25 @@ public class Game1 : Core
 
     protected override void Draw(GameTime gameTime)
     {
-        GraphicsDevice.Clear(Color.CornflowerBlue);
+        GraphicsDevice.Clear(Color.DarkBlue);
         // TODO: Add your drawing code here
 
         SpriteBatch.Begin();
-        SpriteBatch.Draw(_logo, Vector2.Zero, Color.White);
+        SpriteBatch.Draw(
+            _logo,
+            new Vector2(
+                ((Window.ClientBounds.Width * 0.5f) - (_logo.Width * 0.5f)), ((Window.ClientBounds.Height * 0.5f) - (_logo.Height * 0.5f))
+            ),
+            null,
+            Color.White,
+            MathHelper.ToRadians(90),
+            Vector2.Zero,
+            1.0f,
+            SpriteEffects.None,
+            0.0f
+        );
         SpriteBatch.End();
-        
+
         base.Draw(gameTime);
     }
 }
