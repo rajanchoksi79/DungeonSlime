@@ -42,17 +42,20 @@ public class Game1 : Core
 
         SpriteBatch.Begin();
         SpriteBatch.Draw(
-            _logo,
+            _logo, // texture
             new Vector2(
-                ((Window.ClientBounds.Width * 0.5f) - (_logo.Width * 0.5f)), ((Window.ClientBounds.Height * 0.5f) - (_logo.Height * 0.5f))
-            ),
-            null,
-            Color.White,
-            MathHelper.ToRadians(90),
-            Vector2.Zero,
-            1.0f,
-            SpriteEffects.None,
-            0.0f
+                Window.ClientBounds.Width, Window.ClientBounds.Height
+            ) * 0.5f, // position
+            null, // source rectangle
+            Color.White, // color
+            0.0f, // rotation
+            new Vector2(
+                _logo.Width, _logo.Height
+            ) * 0.5f, // origin
+            new Vector2(1.5f, 0.5f), // scale
+            SpriteEffects.FlipHorizontally |
+            SpriteEffects.FlipVertically , // effects
+            0.0f // layer depth
         );
         SpriteBatch.End();
 
